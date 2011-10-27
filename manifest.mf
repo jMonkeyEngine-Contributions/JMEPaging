@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: se.fojop.jme.paging
+OpenIDE-Module-Implementation-Version: 0
+OpenIDE-Module-Layer: se/fojop/jme/paging/layer.xml
+OpenIDE-Module-Localizing-Bundle: se/fojop/jme/paging/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.1
+
